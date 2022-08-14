@@ -1,2 +1,2 @@
 # USM-CDS503-Machine-Learning
-Work during master degree 
+Assignments and labs done during master degree 
